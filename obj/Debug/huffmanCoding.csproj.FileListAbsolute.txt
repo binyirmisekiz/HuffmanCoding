@@ -1,0 +1,12 @@
+c:\users\naz\documents\visual studio 2013\Projects\huffmanCoding\huffmanCoding\bin\Debug\huffmanCoding.exe.config
+c:\users\naz\documents\visual studio 2013\Projects\huffmanCoding\huffmanCoding\bin\Debug\huffmanCoding.exe
+c:\users\naz\documents\visual studio 2013\Projects\huffmanCoding\huffmanCoding\bin\Debug\huffmanCoding.pdb
+c:\users\naz\documents\visual studio 2013\Projects\huffmanCoding\huffmanCoding\obj\Debug\huffmanCoding.csprojResolveAssemblyReference.cache
+c:\users\naz\documents\visual studio 2013\Projects\huffmanCoding\huffmanCoding\obj\Debug\huffmanCoding.exe
+c:\users\naz\documents\visual studio 2013\Projects\huffmanCoding\huffmanCoding\obj\Debug\huffmanCoding.pdb
+C:\Users\naz\Documents\Visual Studio 2013\Projects\13253663_HW#3\huffmanCoding\bin\Debug\huffmanCoding.exe.config
+C:\Users\naz\Documents\Visual Studio 2013\Projects\13253663_HW#3\huffmanCoding\obj\Debug\huffmanCoding.exe
+C:\Users\naz\Documents\Visual Studio 2013\Projects\13253663_HW#3\huffmanCoding\obj\Debug\huffmanCoding.pdb
+C:\Users\naz\Documents\Visual Studio 2013\Projects\13253663_HW#3\huffmanCoding\bin\Debug\huffmanCoding.exe
+C:\Users\naz\Documents\Visual Studio 2013\Projects\13253663_HW#3\huffmanCoding\bin\Debug\huffmanCoding.pdb
+C:\Users\naz\Documents\Visual Studio 2013\Projects\13253663_HW#3\huffmanCoding\obj\Debug\huffmanCoding.csprojResolveAssemblyReference.cache
